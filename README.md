@@ -8,4 +8,4 @@ These Matlab codes calculate the solid-liquid contact angle from Molecular Dynam
 
 What you may find in each of the folders:
 
-*__Fan__*: MATLAB files to calculate the solid liquid contact angle accoding to the method outlined in *C. F. Fan and T. Cain, The Journal of Chemical Physics 103, 9053 (1995)* ([https://doi.org/10.1063/1.470016](https://doi.org/10.1063/1.470016)].
+* __Fan__: MATLAB files to calculate the solid liquid contact angle accoding to the method outlined in *C. F. Fan and T. Cain, The Journal of Chemical Physics 103, 9053 (1995)* ([https://doi.org/10.1063/1.470016](https://doi.org/10.1063/1.470016)].
