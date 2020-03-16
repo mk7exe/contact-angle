@@ -8,7 +8,7 @@ Functions:
 
 * __hit_and_count__: This Function applies the hit-and-count algorithm to remove outliers from a data set.
 
-* __fine_percision__: This function applies the fine precision droplet identification process to remove gas atoms which are very close to the liquid droplet surface.
+* __fine_precision__: This function applies the fine precision droplet identification process to remove gas atoms which are very close to the liquid droplet surface.
 
 * __contact_angle__: This function calculates the contact angle of a liquid droplet of a solid surface through convex hull triangulation.
 
