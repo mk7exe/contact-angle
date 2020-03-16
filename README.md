@@ -1,4 +1,4 @@
-# contact-angle
+# Contact Angle from MD
 Matlab codes to calculate solid-liquid contact angle from Molecular Dynamics simulations
 
 These Matlab codes calculate the solid-liquid contact angle from Molecular Dynamics simulations of liquid droplets on solid substrats. All codes read LAMMPS trajectory files. For more details of theory behind each method and proper citation of codes please refer to the following publication:
